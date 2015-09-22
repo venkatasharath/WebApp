@@ -12,7 +12,7 @@ public class POCDevOps2 {
 	String username;
 	String firstName;
 	String lastName;
-	String emailID;	// add new commment 236
+	String emailID;	// add new commment 237
 	
 	private POCDevOps2(){		
 	}
